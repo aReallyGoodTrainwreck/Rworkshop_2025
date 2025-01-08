@@ -50,7 +50,7 @@ summary(ci_np)
 library(usethis)
 
 ## use_git_config function with your username and email as arguments
-use_git_config(user.name = "aReallyGoodTrainwreck", 
-               user.email = "lalunenoire@tutanota.com")
+use_git_config(user.name = "your_username", 
+               user.email = "example@gmail.com")
 
 
