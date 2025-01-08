@@ -45,7 +45,7 @@ View(ci_np) # opens data in extra tab, can also get this by double-clicking on
             # data set name in Environment tab
 summary(ci_np)
 
-## Set up GitHub
+## Set up GitHub (one off!)
 
 library(usethis)
 
@@ -53,4 +53,4 @@ library(usethis)
 use_git_config(user.name = "aReallyGoodTrainwreck", 
                user.email = "lalunenoire@tutanota.com")
 
-# Check Git/GitHub and R are communicating:
+
