@@ -115,3 +115,6 @@ siteyear_summary <- lobsters %>%
 
 # Takeaway: R’s power is not only in analytical power, 
 # but in automation and reproducibility.
+
+# Sync project with GitHub repo
+# Stage > Commit > Pull (to check for remote changes) > Push!

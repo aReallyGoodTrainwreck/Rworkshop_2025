@@ -140,6 +140,10 @@ kelp_fish_injoin <- kelp_abur %>%
 # This is the smallest merged data set as only observations (rows) where there 
 # is a match for year and site in both data frames are returned.
 
+
+# Sync project with GitHub repo
+# Stage > Commit > Pull (to check for remote changes) > Push!
+
 #################
 ### THE END #####
 #################

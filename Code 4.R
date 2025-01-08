@@ -129,3 +129,6 @@ inverts_sep <- inverts_unite %>%
 
 # Final comment: You might need to be specific about WHICH separate or select
 # function you mean: dplyr::select, tidyr::separate
+
+# Sync project with GitHub repo
+# Stage > Commit > Pull (to check for remote changes) > Push!
