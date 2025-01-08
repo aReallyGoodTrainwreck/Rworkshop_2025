@@ -130,3 +130,7 @@ gg_np +
 ## Export figures with ggsave()
 
 ggsave(here("figures", "np_graph.jpg"), dpi = 180, width = 8, height = 7)
+
+# Sync project with GitHub repo
+# Stage > Commit > Pull (to check for remote changes) > Push!
+
