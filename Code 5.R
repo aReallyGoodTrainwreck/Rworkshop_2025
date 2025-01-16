@@ -7,7 +7,6 @@
 ################################################
 
 # Conditionally subset by rows
-# Activity 2
 # Merge data frames
 
 
@@ -64,12 +63,6 @@ fish_3sp <- fish %>%
            common_name == "black surfperch")
 
 # Note, the vertical "|" is the symbol for the OR operator.
-
-# Activity
-# Create a subset from fish called fish_gar_2016 that keeps all observations
-# if the year is 2016 OR the common name is “garibaldi.”
-
-# YOUR CODE HERE:)
 
 # Filter to return observations that match this AND that
 

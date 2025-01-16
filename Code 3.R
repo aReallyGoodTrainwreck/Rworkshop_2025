@@ -7,7 +7,6 @@
 ################################################
 
 # Introduce group_by() %>% summarise() 
-# Activity 1
 # They sent the wrong data!
 
 
@@ -87,14 +86,6 @@ siteyear_summary <- lobsters %>%
   summarise(count_by_siteyear =  n(), 
             mean_size_mm = mean(size_mm, na.rm = T), 
             sd_size_mm = sd(size_mm, na.rm = T))
-
-# Activity
-# Create and save a plot for the data we just created. 
-# (Now saved as siteyear_summary)
-
-
-# PUT YOUR CODE HERE:)
-
 
 
 # They sent the wrong data!
